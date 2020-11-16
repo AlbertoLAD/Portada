@@ -19,21 +19,21 @@ Naukas (Blog divulgativo)
 - 28 de Octubre, Adiós definitivo al fosfano de Venus (Francisco R. Villatoro) - https://francis.naukas.com/2020/10/28/adios-definitivo-al-fosfano-en-venus/
 
 Otros paper mencionados
-27 de Septiembre: (Mogul et al., 2020) realiza la misma medición con los datos de otro instrumento y confirma la existencia de Fosfano - https://arxiv.org/abs/2009.12758
-24 de Septiembre: (Truong et al., 2020) proponen una explicación geológica abiótica - https://arxiv.org/abs/2009.11904
-13 de Octubre: (Manna et al., 2020) detectan con ALMA la presencia de glicina, un aminoácido - https://arxiv.org/abs/2010.06211
-27 de Octubre: (Villanueva et al., 2020) atribuyen las mediciones de fosfano a errores de calibración y presencia de químicos similares - https://arxiv.org/abs/2010.14305
+- 27 de Septiembre: (Mogul et al., 2020) realiza la misma medición con los datos de otro instrumento y confirma la existencia de Fosfano - https://arxiv.org/abs/2009.12758
+- 24 de Septiembre: (Truong et al., 2020) proponen una explicación geológica abiótica - https://arxiv.org/abs/2009.11904
+- 13 de Octubre: (Manna et al., 2020) detectan con ALMA la presencia de glicina, un aminoácido - https://arxiv.org/abs/2010.06211
+- 27 de Octubre: (Villanueva et al., 2020) atribuyen las mediciones de fosfano a errores de calibración y presencia de químicos similares - https://arxiv.org/abs/2010.14305
 
 Titulares
-BBC: https://www.bbc.com/mundo/noticias-54147330
-ABC: https://www.abc.es/ciencia/abci-detectan-posibles-huellas-vida-venus-202009141707_noticia.html
-El País: https://elpais.com/ciencia/2020-09-14/hallados-posibles-indicios-de-vida-en-venus.html
-RTVE: https://www.rtve.es/noticias/20200914/venus-indicios-vida/2042144.shtml
-National Geographic España: https://www.nationalgeographic.com.es/ciencia/astronomos-podrian-haber-encontrado-firma-vida-venus_15896
+- BBC: https://www.bbc.com/mundo/noticias-54147330
+- ABC: https://www.abc.es/ciencia/abci-detectan-posibles-huellas-vida-venus-202009141707_noticia.html
+- El País: https://elpais.com/ciencia/2020-09-14/hallados-posibles-indicios-de-vida-en-venus.html
+- RTVE: https://www.rtve.es/noticias/20200914/venus-indicios-vida/2042144.shtml
+- National Geographic España: https://www.nationalgeographic.com.es/ciencia/astronomos-podrian-haber-encontrado-firma-vida-venus_15896
 
 Menciones de honor
-El Heraldo: https://www.heraldo.es/noticias/sociedad/2020/09/14/descubren-indicios-presencia-vida-extraterrestre-venus-1395243.html
-A3 Noticias: https://www.antena3.com/noticias/ciencia/astronomos-detectan-posibles-indicios-vida-potencial-venus_202009145f5f96f6ea23080001921c3a.html
-El Español: https://www.elespanol.com/ciencia/investigacion/20200914/primeros-indicios-vida-extraterrestre-nubes-venus/520698455_0.html
-Onda Cero: https://www.ondacero.es/noticias/ciencia-tecnologia/hallazgo-gas-fosfano-venus-revela-vida-potencial-planeta_202009145f5f9027653ee200019d2f37.html
-El Economista: https://www.eleconomista.es/internacional/noticias/10769011/09/20/Descubren-indicios-de-presencia-de-vida-extraterrestre-en-Venus.html
+- El Heraldo: https://www.heraldo.es/noticias/sociedad/2020/09/14/descubren-indicios-presencia-vida-extraterrestre-venus-1395243.html
+- A3 Noticias: https://www.antena3.com/noticias/ciencia/astronomos-detectan-posibles-indicios-vida-potencial-venus_202009145f5f96f6ea23080001921c3a.html
+- El Español: https://www.elespanol.com/ciencia/investigacion/20200914/primeros-indicios-vida-extraterrestre-nubes-venus/520698455_0.html
+- Onda Cero: https://www.ondacero.es/noticias/ciencia-tecnologia/hallazgo-gas-fosfano-venus-revela-vida-potencial-planeta_202009145f5f9027653ee200019d2f37.html
+- El Economista: https://www.eleconomista.es/internacional/noticias/10769011/09/20/Descubren-indicios-de-presencia-de-vida-extraterrestre-en-Venus.html
