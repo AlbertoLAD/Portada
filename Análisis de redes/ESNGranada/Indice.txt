@@ -1,1 +1,2 @@
-____
+En esta carpeta se incluyen los grafos resultantes del análisis de las redes de ESN Granada.
+Cada una de las redes puede verse por separado.
